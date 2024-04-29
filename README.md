@@ -5,8 +5,8 @@
 </div>
 <div align=center>
 <a href="https://github.com/leticianb">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticianb&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=calm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticianb&layout=compact&langs_count=16&theme=calm_pink">  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticianb&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=rose_pine">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticianb&layout=compact&langs_count=16&theme=rose_pine">  
 </div>
 
 
